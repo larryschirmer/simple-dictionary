@@ -1,6 +1,6 @@
 # The Simple Dictionary
 
-[![GitHub release](https://img.shields.io/badge/release-v0.0.4-blue.svg)](https://github.com/ipsumbelievable/simple-dictionary/releases/)
+[![GitHub release](https://img.shields.io/badge/release-v0.0.1-blue.svg)](https://github.com/ipsumbelievable/simple-dictionary/releases/)
 
 The goal of this project is to provide a simple definition for common words in the English language. This [open source dictionary](http://www.mso.anu.edu.au/~ralph/OPTED/) as well as other online and printed dictionaries already provide comprehensive collections and thorough definitions for words in the English language. What this project seeks to do instead is pair each word with simple and terse definition that are easy to understand.
 
