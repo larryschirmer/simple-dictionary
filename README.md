@@ -23,6 +23,11 @@ If you would like to get involved in the project, thank you so much! Submit a pu
 
 Fork and clone the project to make changes and submit PR's to the ipsumbelievable `contributions` branch.
 
+**Before Submitting A Pull Request**, please run the following script to update the list of supported words. 
+```
+node lib/getUniqueWords.js
+```
+
 ### Example of Work Needed
 
 ```
