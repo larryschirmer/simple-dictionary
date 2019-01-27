@@ -1,39 +1,68 @@
 # Supported Words
 
-## Simple Dictionary has 35 unique processed words
+## Simple Dictionary has 64 unique processed words
 
-alone
-aesthetic
-activist
-accounting
-agriculture
-adventure
-accelerate
-athlete
-alternative
-anxiety
-arm
-achieve
-african
-atmosphere
-attitude
-accident
-afternoon
-appoint
-alley
-agenda
-associate
-album
-alliance
-awful
-animal
-aggressive
-art
-advertising
-awareness
-access
-actor
-abstract
-advice
-love
-money
+* alone
+* aesthetic
+* activist
+* accounting
+* agriculture
+* adventure
+* accelerate
+* athlete
+* alternative
+* anxiety
+* arm
+* achieve
+* african
+* atmosphere
+* attitude
+* accident
+* afternoon
+* appoint
+* alley
+* agenda
+* associate
+* album
+* alliance
+* awful
+* animal
+* aggressive
+* art
+* advertising
+* awareness
+* access
+* actor
+* abstract
+* advice
+* love
+* money
+* cell
+* chain
+* chair
+* chamber
+* change
+* channel
+* chaos
+* chapter
+* character
+* charm
+* chart
+* cheat
+* check
+* cheese
+* chicken
+* childhood
+* child
+* chill
+* chip
+* chocolate
+* chronic
+* chunk
+* circle
+* cite
+* citizen
+* city
+* civilization
+* class
+* classic
