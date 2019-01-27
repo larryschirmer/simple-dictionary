@@ -1,0 +1,26 @@
+{
+  "name": "simple-dictionary",
+  "version": "1.0.0",
+  "description": "[![GitHub release](https://img.shields.io/badge/release-v0.0.1-blue.svg)](https://github.com/ipsumbelievable/simple-dictionary/releases/)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryschirmer/simple-dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larryschirmer/simple-dictionary/issues"
+  },
+  "homepage": "https://github.com/larryschirmer/simple-dictionary#readme",
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  }
+}
