@@ -1,6 +1,6 @@
 {
   "name": "simple-dictionary",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "[![GitHub release](https://img.shields.io/badge/release-v0.0.1-blue.svg)](https://github.com/ipsumbelievable/simple-dictionary/releases/)",
   "main": "index.js",
   "directories": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/larryschirmer/simple-dictionary#readme",
   "dependencies": {
-    "event-stream": "^4.0.1"
+    "event-stream": "^3.3.4"
   }
 }
